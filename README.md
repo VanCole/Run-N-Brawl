@@ -32,7 +32,7 @@ Additional Informations:
 
 -   Playable with controller (XBOX) or without (keyboard, mouse)
 
--   Controls:
+Controls:
 
 * Jump (space)
 
@@ -45,5 +45,3 @@ Additional Informations:
 * Crunch/Slide (S)
 
 * Use tools (E)
-
--   Options buggy.
